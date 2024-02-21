@@ -15,6 +15,8 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+// deneme açıklama ekledim
+
 class _MyHomePageState extends State<MyHomePage> {
   TextEditingController seninAdinText = TextEditingController();
   TextEditingController sevdigininAdiText = TextEditingController();
